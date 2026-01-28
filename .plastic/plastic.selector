@@ -1,0 +1,4 @@
+repository "Gamejam_Winter_2026_2/Gamejam_Winter_2026_2@15669129612108@cloud"
+  path "/"
+    br "/main"
+    co "/main"
