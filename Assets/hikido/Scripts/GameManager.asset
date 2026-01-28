@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd3159ae364ec3545ae143fe655318ed, type: 3}
+  m_Name: GameManager
+  m_EditorClassIdentifier: 
+  statusHP: 100
+  statusMoveSpeed: 10
+  statusMoveJump: 200
+  statusAttackDelay: 0.5
+  slashSpeed: 30
+  effectlifeTime: 0.5
+  value: 4
+  randomValue: 9
+  eventTime: 6.5506744
+  gameTime: 1381964.9
+  gameTimeEnd: 300
+  gameflg: 0
+  damageFlg: 0
